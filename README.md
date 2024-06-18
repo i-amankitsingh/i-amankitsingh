@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on backend project. It's feature are same as youtube, where I'm excited to build application like Youtube.
 
-📫 Let's connect and collaborate! Find me on Instagram:- https://www.instagram.com/itz.____ankit/ to explore ideas and share knowledge.
+📫 Let's connect and collaborate! Find me on Linkedin:- https://www.linkedin.com/in/ankit-singh-jethuri/ to explore ideas and share knowledge.
 
 Happy coding! 🚀
 
