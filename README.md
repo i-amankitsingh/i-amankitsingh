@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am full stack developer<br>I am currently working on Chat Application with socket.io<br>My interests span Full stack developement, and I enjoy diving deep into Web technologies to build efficent, opmtimize and robust web applications.<br>
+I am full stack developer<br>I am currently working on Investment Dashboard and fintech software.io<br>My interests span Full stack developement, and I enjoy diving deep into Web technologies to build efficent, opmtimize and robust web applications.<br>
 
 
 ## 🌐 Socials:
