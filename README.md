@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am full stack developer<br>I am currently working on Investment Dashboard and Fintech software.<br>My interests span Full stack developement, and I enjoy diving deep into Web technologies to build efficent, opmtimize and robust web applications.<br>
+I am a Full Stack Developer currently working on Investment Management Software for High-Net-Worth Individuals (HNI). My interests span across full stack development, where I enjoy working deeply with modern web technologies to build efficient, optimized, and scalable web applications.<br>
 
 
 ## 🌐 Socials:
